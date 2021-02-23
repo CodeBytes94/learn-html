@@ -7,7 +7,7 @@ You can find all the code from our Learn HTML series here!
 
 For full tutorials visit our webpage or YouTube channel!
 - https://codebytesized.com/
-- https://www.youtube.com/channel/UCNviXirHLdmUAZxQQ11Kisg/about
+- https://www.youtube.com/channel/UCNviXirHLdmUAZxQQ11Kisg/featured
 
 Follow us for more web development inspiration!
 - Instagram: https://www.instagram.com/codebytes._/
