@@ -12,4 +12,5 @@ For full tutorials visit our webpage or YouTube channel!
 
 Follow us for more web development inspiration!
 - Instagram: https://www.instagram.com/codebytes._/
+- Twitter: https://twitter.com/codebytes_
 - TikTok: https://www.tiktok.com/@codebytes._?lang=en
