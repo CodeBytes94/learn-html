@@ -5,6 +5,7 @@ You can find all the code from our Learn HTML series here!
 | :---: | ----- | --- |
 | 01 | Introduction to HTML | [View Code](https://github.com/CodeBytes94/learn-html/blob/main/the-fundamentals/introduction-to-html/introduction-to-html.html)
 | 02 | Elements & Attributes | [View Code](https://github.com/CodeBytes94/learn-html/blob/main/the-fundamentals/elements-attributes/elements-attributes.html)
+| 03 | Headings | [View Code](https://github.com/CodeBytes94/learn-html/blob/main/the-fundamentals/headings/headings.html)
 
 For full tutorials visit our webpage or YouTube channel!
 - Website: https://codebytesized.com/
