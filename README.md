@@ -10,7 +10,7 @@ You can find all the code from our Learn HTML series here!
 | 05 | Formatting | [View Code](https://github.com/CodeBytes94/learn-html/blob/main/the-fundamentals/formatting/formatting.html)
 
 For full tutorials visit our webpage or YouTube channel!
-- Website: https://codebytesized.com/
+- Website: https://codebytes.blog/
 - YouTube: https://www.youtube.com/playlist?list=PLvvVSYZ1bhvKGGIRMXE_mBzScJ6-IhVc8
 
 Follow us for more web development inspiration!
