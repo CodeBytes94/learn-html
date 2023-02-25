@@ -14,9 +14,9 @@ You can find all the code from our Learn HTML series here!
 | Lesson | Description | Link
 | :---: | ----- | --- |
 | 01 | Links | [View Code](https://github.com/CodeBytes94/learn-html/tree/main/media-elements/links)
+| 02 | Images | [View Code](https://github.com/CodeBytes94/learn-html/tree/main/media-elements/images)
 
-For full tutorials visit our webpage or YouTube channel!
-- Website: https://codebytes.blog/
+For full tutorials visit our YouTube channel!
 - YouTube: https://www.youtube.com/playlist?list=PLvvVSYZ1bhvKGGIRMXE_mBzScJ6-IhVc8
 
 Follow us for more web development inspiration!
